@@ -1,0 +1,27 @@
+body{
+  background-image:url("https://unsplash.com/photos/dI9KhXi0ooE");
+  color: black;
+  font-family:"Lobster";
+  background-size:cover;
+}
+#header{
+  background:rgba(0,0,0,.5);
+  border: 5px black solid;
+  border-radius: 20px;
+}
+
+img{
+  width: 90px;
+  border-radius: 50%;
+}
+
+.col-md-4{
+  padding: 7px;
+}
+
+.row{
+  background: rgba(0,0,0,.5);
+  border: 6px black solid;
+  border-radius: 20px;
+  margin: 7px;
+}
